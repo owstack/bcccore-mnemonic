@@ -1,0 +1,31 @@
+{
+  "name": "bcccore-mnemonic",
+  "main": "./bcccore-mnemonic.min.js",
+  "version": "1.1.4",
+  "homepage": "https://github.com/owstack/bcccore-mnemonic",
+  "authors": [
+    "Open Wallet Stack"
+  ],
+  "description": "BIP39 - Mnemonics implemented for Bcccore.",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "bitcoin",
+    "bcccore",
+    "bcc",
+    "satoshi",
+    "mnemonic"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "index.js",
+    "gulpfile.js",
+    "README.md",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

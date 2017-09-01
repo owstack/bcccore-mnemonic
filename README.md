@@ -1,4 +1,4 @@
-BIP39 Mnemonics for bcccore
+Bcccore BIP39 Mnemonics
 =======
 
 [![NPM Package](https://img.shields.io/npm/v/bcccore-mnemonic.svg?style=flat-square)](https://www.npmjs.org/package/bcccore-mnemonic)

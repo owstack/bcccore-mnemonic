@@ -1,6 +1,3 @@
 'use strict';
-
-var gulp_bcccore = require('bcccore-build');
-
-gulp_bcccore('mnemonic');
-
+var owsTasks = require('ows-build');
+owsTasks('bcccore', 'mnemonic');

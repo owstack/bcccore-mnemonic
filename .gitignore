@@ -1,8 +1,8 @@
 *.sw[a-z]
 coverage
 node_modules
-bcccore-mnemonic.js
-bcccore-mnemonic.min.js
+bch-mnemonic.js
+bch-mnemonic.min.js
 tests.js
 
 lib/errors/index.js

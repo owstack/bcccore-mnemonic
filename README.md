@@ -1,11 +1,10 @@
 Bch BIP39 Mnemonics
 =======
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/owstack/bch-mnemonic.svg)](https://greenkeeper.io/)
-
 [![NPM Package](https://img.shields.io/npm/v/bch-mnemonic.svg?style=flat-square)](https://www.npmjs.org/package/bch-mnemonic)
 [![Build Status](https://img.shields.io/travis/owstack/bch-mnemonic.svg?branch=master&style=flat-square)](https://travis-ci.org/owstack/bch-mnemonic)
 [![Coverage Status](https://img.shields.io/coveralls/owstack/bch-mnemonic.svg?style=flat-square)](https://coveralls.io/r/owstack/bch-mnemonic)
+[![Greenkeeper badge](https://badges.greenkeeper.io/owstack/bch-mnemonic.svg)](https://greenkeeper.io/)
 
 A module for [bch](https://github.com/owstack/bch) that implements [Mnemonic code for generating deterministic keys](https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki).
 

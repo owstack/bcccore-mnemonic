@@ -7,10 +7,6 @@ Bch BIP39 Mnemonics
 
 A module for [bch](https://github.com/owstack/bch) that implements [Mnemonic code for generating deterministic keys](https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki).
 
-## Attribution
-
-This repository was created by copy forking [bitcore-mnemonic commit 532fbe1](https://github.com/bitpay/bitcore-mnemonic/commit/532fbe1010502fee3f25bdd93cb8dde66fb1386e).
-
 ## Getting Started
 
 This library is distributed in both the npm and bower packaging systems.

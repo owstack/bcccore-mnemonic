@@ -1,6 +1,6 @@
 {
   "name": "@owstack/bch-mnemonic",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "BIP39 mnemonics support for Bch Node.",
   "main": "index.js",
   "scripts": {

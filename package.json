@@ -1,6 +1,6 @@
 {
   "name": "@owstack/bch-mnemonic",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "BIP39 mnemonics support for Bch Node.",
   "main": "index.js",
   "scripts": {
@@ -22,7 +22,7 @@
     "encryption"
   ],
   "dependencies": {
-    "@owstack/bch-lib": "^0.0.3",
+    "@owstack/bch-lib": "^0.0.5",
     "unorm": "^1.3.3"
   },
   "devDependencies": {
